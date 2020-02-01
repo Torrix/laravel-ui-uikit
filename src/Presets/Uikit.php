@@ -70,7 +70,7 @@ class Uikit extends Preset
 
     protected static function updatePackageArray(array $packages): array
     {
-        return ['uikit' => '^3.2.3'] + $packages;
+        return ['uikit' => '^3.3.0'] + $packages;
     }
 
     protected static function exportViews($views): void
