@@ -1,8 +1,12 @@
-# UIkit frontend UI preset for Laravel
+## New version: [torrix/laravel-uikit](https://github.com/torrix/laravel-uikit)
 
-![](https://torrix.uk/laravel-ui-uikit.jpg)
+This package is for Laravel 6, and is **no longer maintained**. Please use the [Laravel 8 version](https://github.com/torrix/laravel-uikit)
 
-Out of the box, Laravel ships with a [UI preset](https://github.com/laravel/ui) for [Bootstrap](https://getbootstrap.com/) and [Vue.js](https://vuejs.org/) to make getting your website front-end up and running simple.
+---
+
+# UIkit frontend UI preset for Laravel 6
+
+Out of the box, Laravel 6 ships with a [UI preset](https://github.com/laravel/ui) for [Bootstrap](https://getbootstrap.com/) and [Vue.js](https://vuejs.org/) to make getting your website front-end up and running simple.
 
 ## Laravel + UIkit = :heart_eyes:
 
